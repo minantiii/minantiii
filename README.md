@@ -1,5 +1,4 @@
 <p align="center">
-" height="596" alt="carbon" src="https://github.com/user-attachments/assets/d7857650-9918-441e-97a4-422e97d1cc3a" />
 </p>
 
 <p align="center">
