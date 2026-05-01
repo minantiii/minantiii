@@ -1,9 +1,10 @@
 <p align="center">
+  <img width="1008<img width="1008" height="596" alt="carbon" src="https://github.com/user-attachments/assets/286664f6-20b4-4843-8e3b-2b59b921c1e6" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielminanti20" target="_blank">
-    <img width="1008<img width="1008" height="596" alt="carbon" src="https://github.com/user-attachments/assets/286664f6-20b4-4843-8e3b-2b59b921c1e6" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%231A1B26?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=1A1B26" alt="LinkedIn">
   </a>
 </p>
 
