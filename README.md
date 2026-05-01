@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A9B1D6&background=1A1B26&center=false&vCenter=false&width=600&height=180&lines=%23gabriel+%7B;++location%3A+%22S%C3%A3o+Paulo%2C+Brasil%22%3B;++age%3A+24%3B;++height%3A+%22175cm%22%3B;++skills%3A+%5B%22Python%22%2C+%22C%23%22%2C+%22.NET%22%2C+%22SQL%22%5D%3B;%7D">
+  <img width="1008" height="596" alt="carbon" src="https://github.com/user-attachments/assets/d7857650-9918-441e-97a4-422e97d1cc3a" />
 </p>
 
 <p align="center">
