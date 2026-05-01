@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,github" alt="Habilidades">
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,github" alt="Habilidades">
   </a>
 </p>
 
