@@ -24,7 +24,7 @@
 
 <br>
 
-🐍 Snake eating my commits
+  🐍 Snake eating my commits
 
 <p align="center">
   <picture>
