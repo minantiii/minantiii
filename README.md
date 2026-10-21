@@ -33,5 +33,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minantiii/minantiii/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-<!-- perfil -->
